@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "322670796124",
+    "project_id": "roblescode",
+    "storage_bucket": "roblescode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322670796124:android:fe640a6a5b50d46829f599",
+        "android_client_info": {
+          "package_name": "com.roblescode.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322670796124-vcnv8l39u4lhb7jpnouhuvv2aesr0gqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roblescode.authentication",
+            "certificate_hash": "2537df6e28aff7c5886009c8e837f8e8b0de2ef5"
+          }
+        },
+        {
+          "client_id": "322670796124-l8n839voie1pokoc1k4ap45qbrd0b4kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpnS_XQozWc8EdH19J4VOJwWdo7bspi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322670796124-l8n839voie1pokoc1k4ap45qbrd0b4kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
